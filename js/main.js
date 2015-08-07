@@ -18,6 +18,9 @@ function stopFn() {
 		clearInterval(i);
 	}*/
 }
+
+function gitHubTest() {}
+
 document.getElementById("stop").addEventListener("click", stopFn, true);
 
 function getRandomColor() {
