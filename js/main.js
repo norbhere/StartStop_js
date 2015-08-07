@@ -11,12 +11,6 @@ function loop(i) {
 		}, 10);
 }
 
-function start() {
-
-}
-
-
-
 
 function stopFn() {
 	clearInterval(interval);
