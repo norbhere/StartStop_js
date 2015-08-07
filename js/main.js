@@ -11,6 +11,7 @@ function loop(i) {
 		}, 10);
 }
 
+function asdfasdf();
 
 function stopFn() {
 	clearInterval(interval);
